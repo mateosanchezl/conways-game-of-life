@@ -21,3 +21,13 @@ The simple implementation allows users to:
 
 ## Getting Started
 
+This section provides instructions for setting up and running Conway's Game of Life on your system.
+
+### Prerequisites
+
+- Python 3.x
+- Git (for cloning the repository)
+
+### Setup
+
+Clone this repository to your local machine using Git:
