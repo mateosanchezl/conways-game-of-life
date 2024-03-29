@@ -12,6 +12,10 @@ The game consists of 4 rules, by which cells can die, be born and reproduce:
 
 This implementation uses NumPy for efficient state management, as well as Pygame for rendering the simulation.
 
+<img width="993" alt="Screenshot 2024-03-29 at 13 00 07" src="https://github.com/mateosanchezl/conways-game-of-life/assets/146749266/686eb6ae-599c-4e12-a172-43f65795c8ce">
+
+<img width="999" alt="Screenshot 2024-03-29 at 13 00 29" src="https://github.com/mateosanchezl/conways-game-of-life/assets/146749266/52a8573f-97ca-460f-a8d3-e05cca7d514a">
+
 ## Features
 
 The simple implementation allows users to:
