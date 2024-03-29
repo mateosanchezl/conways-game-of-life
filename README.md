@@ -30,4 +30,18 @@ This section provides instructions for setting up and running Conway's Game of L
 
 ### Setup
 
-Clone this repository to your local machine using Git:
+*Clone this repository using*:
+```bash
+git clone https://github.com/your-username/conways-game-of-life.git
+cd conways-game-of-life
+```
+
+### On macOS/Linux:
+*Make the setup script executable and then run itusing:
+```bash
+chmod +x run_game.sh
+./run_game.sh
+```
+### On Windows:
+*Double click the `run_game.bat` file.*
+
