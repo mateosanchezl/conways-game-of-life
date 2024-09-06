@@ -36,7 +36,7 @@ This section provides instructions for setting up and running Conway's Game of L
 
 **Clone this repository using**:
 ```bash
-git clone https://github.com/your-username/conways-game-of-life.git
+git clone https://github.com/mateosanchezl/conways-game-of-life.git
 cd conways-game-of-life
 ```
 
